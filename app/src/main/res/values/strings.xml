@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_navbar_title">Furnitures</string>
+
+    <string name="user_name">Nama Pengguna</string>
+    <string name="user_email">Email Pengguna</string>
+
+    <string name="furniture_name">Nama Produk</string>
+    <string name="furniture_price">Harga</string>
+    <string name="furniture_category">Kategori</string>
+    <string name="description">Deskripsi</string>
+    <string name="share">Share!</string>
+    <string-array name="data_name">
+        <item>Bedroom Furniture</item>
+        <item>Inwhite Dining</item>
+        <item>Living Furniture</item>
+        <item>Bedroom Chair</item>
+        <item>Kitchen Set</item>
+        <item>Guest Furniture</item>
+        <item>Dining Table</item>
+        <item>Wall Decoration</item>
+        <item>Luxury Bed</item>
+        <item>Kitchen InDark</item>
+        <item>Tropical Set</item>
+        <item>Chill Set</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp. 850.000</item>
+        <item>Rp. 2.150.000</item>
+        <item>Rp. 1.500.000</item>
+        <item>Rp. 750.000</item>
+        <item>Rp. 2.750.000</item>
+        <item>Rp. 550.000</item>
+        <item>Rp. 8.000.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 12.500.000</item>
+        <item>Rp. 2.850.000</item>
+        <item>Rp. 9.000.000</item>
+        <item>Rp. 8.500.000</item>
+    </string-array>
+    <string-array name="data_category">
+        <item>Bedroom</item>
+        <item>Dining</item>
+        <item>Living</item>
+        <item>Bedroom</item>
+        <item>Kitchen</item>
+        <item>Guestroom</item>
+        <item>Dining</item>
+        <item>Decoration</item>
+        <item>Bedroom</item>
+        <item>Kitchen</item>
+        <item>Dining</item>
+        <item>Living</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Sekumpulan perabot yang dirancang khusus untuk menciptakan suasana nyaman dan menenangkan di kamar tidur Anda. Termasuk tempat tidur, lemari, dan meja samping, koleksi ini menggabungkan estetika dengan fungsionalitas untuk meningkatkan kualitas tidur Anda.</item>
+        <item>Set meja makan modern dengan desain minimalis dan warna putih bersih. Cocok untuk ruang makan yang ingin tampak lebih luas dan terang, set ini menampilkan detail yang elegan dan material berkualitas tinggi.</item>
+        <item>Berbagai perabotan untuk ruang tamu yang menekankan kenyamanan dan gaya. Termasuk sofa, meja kopi, dan rak TV, koleksi ini menawarkan pilihan yang bervariasi untuk menciptakan ruang berkumpul yang hangat dan mengundang.</item>
+        <item>Kursi yang dirancang untuk memberikan kenyamanan ekstra di kamar tidur Anda. Ideal untuk bersantai, membaca, atau berpakaian, kursi ini menawarkan desain yang estetis dan ergonomis, membuatnya menjadi tambahan yang sempurna untuk ruang tidur Anda.</item>
+        <item>Paket perabot dapur yang lengkap, mencakup kabinet, countertop, dan sink. Didesain untuk memberikan efisiensi dan kenyamanan saat memasak, kitchen set ini menawarkan penyimpanan yang cukup dan gaya yang menarik.</item>
+        <item>Perabotan yang ditujukan untuk area tamu, menciptakan suasana yang ramah dan menyenangkan bagi pengunjung. Termasuk sofa tambahan, kursi, dan meja kecil, koleksi ini memastikan tamu Anda merasa nyaman selama berkunjung.</item>
+        <item>Meja makan yang dirancang untuk menjadi pusat perhatian di ruang makan Anda. Dengan berbagai ukuran dan gaya, meja ini memberikan ruang yang cukup untuk berkumpul bersama keluarga dan teman, menciptakan momen kebersamaan yang berharga.</item>
+        <item>Aksesori dinding yang menambahkan sentuhan seni dan kepribadian ke ruang Anda. Mulai dari lukisan, bingkai foto, hingga dinding kayu, dekorasi ini mempercantik tampilan dinding dan menciptakan suasana yang lebih hidup.</item>
+        <item>Tempat tidur mewah yang dirancang untuk memberikan kenyamanan maksimal dan gaya yang elegan. Dengan bahan berkualitas tinggi dan desain yang menawan, tempat tidur ini akan menjadi elemen utama dalam menciptakan ruang tidur yang mewah.</item>
+        <item>Set dapur dengan desain yang berani dan modern, menampilkan nuansa gelap yang elegan. Cocok untuk mereka yang menyukai gaya yang dramatis dan kontemporer, set ini memberikan suasana yang chic dan canggih di area memasak.</item>
+        <item>Koleksi perabot yang terinspirasi oleh suasana tropis, lengkap dengan warna-warna cerah dan material alami. Ideal untuk menciptakan nuansa santai dan menyenangkan, set ini membawa nuansa liburan ke dalam rumah Anda.</item>
+        <item>Perabotan yang dirancang untuk bersantai dan menikmati waktu santai di rumah. Termasuk kursi santai, ottoman, dan meja samping, chill set ini menciptakan sudut nyaman untuk bersantai, membaca, atau menikmati waktu dengan keluarga.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/furniture_1</item>
+        <item>@drawable/furniture_2</item>
+        <item>@drawable/furniture_3</item>
+        <item>@drawable/furniture_4</item>
+        <item>@drawable/furniture_5</item>
+        <item>@drawable/furniture_6</item>
+        <item>@drawable/furniture_7</item>
+        <item>@drawable/furniture_8</item>
+        <item>@drawable/furniture_9</item>
+        <item>@drawable/furniture_10</item>
+        <item>@drawable/furniture_11</item>
+        <item>@drawable/furniture_12</item>
+    </integer-array>
+</resources>
